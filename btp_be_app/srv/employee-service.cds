@@ -126,6 +126,7 @@ annotate EmployeeService.Employees with @(UI : {
             Text : DEPARTMENT.NAME,
             TextArrangement : #TextOnly, 
         }
+        //new change
     );    
 };
 
